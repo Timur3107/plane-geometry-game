@@ -12,7 +12,7 @@
 
 1. Склонируйте репозиторий с помощью следующей команды в командной строке или терминале:
    ```bash
-   git clone https://github.com/ваш_логин/ваш_репозиторий.git
+   git clone https://github.com/Timur3107/plane-geometry-game.git
    ```
 
 
